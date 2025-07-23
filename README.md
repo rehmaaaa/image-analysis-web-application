@@ -1,4 +1,4 @@
-# Image Analysis Project
+# Document Analysis Web Application
 
 ## Overview
 
